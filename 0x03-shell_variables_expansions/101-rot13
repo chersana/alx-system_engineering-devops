@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "example" | tr 'A-Za-z' 'N-ZA-Mn-za-m' echo "rknzcyr" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+echo "example" | tr 'A-Za-z' 'N-ZA-Mn-za-m' echo "rknzcyr" | tr 'A-Za-z' 'N-ZA-Mn-za-m '
